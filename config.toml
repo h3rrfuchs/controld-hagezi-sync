@@ -42,4 +42,4 @@ names = ["Raphael"]
 # =============================================================================
 
 [profile_folders]
-Raphael   = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "Apple Private Relay Allowslist", "Apple Native Tracker Blocklist"]
+Raphael   = ["Badware Hoster", "Most Abused TLDs", "Referral Allow", "Apple Private Relay Allowlist", "Apple Native Tracker Blocklist"]
